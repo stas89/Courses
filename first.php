@@ -1,8 +1,8 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: alex
+ * User: stas
  * Date: 23.02.16
  * Time: 18:29
  */
-echo 'Hello';
+echo 'Hello world!';
